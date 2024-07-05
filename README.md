@@ -73,9 +73,9 @@ Fetches a random joke and a random image URL.
 
 4. Access the API
 
-- Random Joke: [http://localhost:3000/api/jokes/random](http://localhost:3000/api/jokes/random)
-- Random Image: [http://localhost:3000/api/images/random](http://localhost:3000/api/images/random)
-- Random Joke and Image: [http://localhost:3000/api/jokes-and-images/random](http://localhost:3000/api/jokes-and-images/random)
+- Random Joke: [http://localhost:8080/api/jokes/random](http://localhost:8080/api/jokes/random)
+- Random Image: [http://localhost:8080/api/images/random](http://localhost:8080/api/images/random)
+- Random Joke and Image: [http://localhost:8080/api/jokes-and-images/random](http://localhost:8080/api/jokes-and-images/random)
 
 ## Challenges Faced
 
